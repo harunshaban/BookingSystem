@@ -1,0 +1,21 @@
+.book-button {
+    min-width: 100px;
+  }
+  
+  .modal-content {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .table th {
+    background-color: #f8f9fa;
+  }
+  
+  .spinner-border {
+    width: 1rem;
+    height: 1rem;
+  }
+  
+  .alert {
+    margin-bottom: 1rem;
+  }
+  
